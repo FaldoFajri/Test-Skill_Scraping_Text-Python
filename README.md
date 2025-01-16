@@ -9,4 +9,4 @@
 - Playwright
 - FastAPI
 
-Tugas : Scraping/crawling data bentuk teks dari internet (bebas apa saja) lalu diupload di github.
+Tugas : Scraping/crawling data bentuk teks dari internet
